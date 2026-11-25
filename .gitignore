@@ -1,0 +1,9 @@
+.netlify/
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite.tmp
